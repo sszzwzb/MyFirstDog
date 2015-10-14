@@ -1,0 +1,21 @@
+//
+//  MusicPlayerPCH.pch
+//  MusicPlayer
+//
+//  Created by lanou3g on 15/10/5.
+//  Copyright (c) 2015年 zhangkayi. All rights reserved.
+//
+
+#ifndef MusicPlayer_MusicPlayerPCH_pch
+#define MusicPlayer_MusicPlayerPCH_pch
+
+///   引用 Macro
+#import "APPHeader.h"
+#import "IMPHeader.h"
+#import "KEYHeader.h"
+#import "URLHeader.h"
+
+// Include any system framework and library headers here that should be included in all compilation units.
+// You will also need to set the Prefix Header build setting of one or more of your targets to reference this file.
+
+#endif
